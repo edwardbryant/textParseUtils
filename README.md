@@ -6,4 +6,4 @@ General JS utilities for parsing and manipulating text strings. Utilities includ
 * countNum
 * countWords
 
-the end.
+fin.
