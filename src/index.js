@@ -7,4 +7,3 @@ const textParseUtils = {
 };
 
 export default textParseUtils;
-
